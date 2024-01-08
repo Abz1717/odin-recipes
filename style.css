@@ -8,23 +8,17 @@ a{
 }
 
 .header{
-
-background-color: lightgray;
-padding: 8px;
-margin: 8px;
+    padding: 8px;
+    margin: 8px;
 }
 
 .recipes{
-
-    background-color: lightgrey;
     padding: 8px;
     margin: 8px;
     text-align: left;
 
 }
 
-body{
-}
 
 
 
